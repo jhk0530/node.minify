@@ -1,0 +1,3 @@
+^node\.minify\.Rproj$
+^\.Rproj\.user$
+^inst/node/node_modules$
